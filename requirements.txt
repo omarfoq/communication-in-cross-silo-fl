@@ -1,0 +1,15 @@
+cvxpy
+tensorboard
+geopy
+PIL
+scikit-learn
+networkx == 2.4
+numpy
+torch
+torchvision
+scipy
+matplotlib
+jupyter
+torchtext
+spacy
+mplleaflet
