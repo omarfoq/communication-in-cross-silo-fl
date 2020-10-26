@@ -1,7 +1,7 @@
 # Optimal Topology Design for Cross-Silo Federated Learning
 
-This repository is the official implementation of Optimal Topology
-Design for Cross-Silo Federated Learning.
+This repository is the official implementation of [Optimal Topology
+Design for Cross-Silo Federated Learning](https://arxiv.org/abs/2010.12229).
 
 Federated learning usually employs a master-slave architecture where an
 orchestrator iteratively aggregates model updates from remote clients
